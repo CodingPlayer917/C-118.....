@@ -1,0 +1,14 @@
+body{
+    background-color: aliceblue;
+}
+#score{
+    font-size: 30px;
+    margin-left: 989px;
+}
+#timer{
+    font-size: 30px;
+    margin-right: 998px;
+}
+#sketch_drawn{
+    color: tomato;
+}
